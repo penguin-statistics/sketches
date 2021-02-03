@@ -1,0 +1,2 @@
+## Licensing
+All files under this repository (unless otherwise specified) are licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). To attribute this repository, simply include the GitHub repository URL with name `Penguin Statistics` presented.
